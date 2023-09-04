@@ -10,7 +10,9 @@
 * Intereses y espectativas
 
 ## Objetivos del taller 
-
+~~~
+Divertirse
+~~~
 ~~~
 Aprender a crear imagenes por medio de AI 
 ~~~
