@@ -9,6 +9,18 @@
 * Nombre
 * Intereses y espectativas
 
+## Objetivos del taller 
+
+~~~
+Aprender a crear imagenes por medio de AI 
+~~~
+~~~
+Aprender a crear animaciones por medio de AI 
+~~~
+
+
+Crear una muestra online donde se puedan visualizar los contenidos realizados pr los participantes 
+
 
 ## Temario de taller 
 
