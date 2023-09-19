@@ -41,6 +41,10 @@ Crear una muestra online donde se puedan visualizar los contenidos realizados pr
 * Google Colab
 
 
+## Noticias y Referencias 
+
+[Un niño visito a 17 médicos durante 3 años por dolor crónico. ChatGPT encontró el diagnóstico](https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843)
+
 
   
 
