@@ -49,7 +49,13 @@ Crear una muestra online donde se puedan visualizar los contenidos realizados pr
 
 [El arte generado por IA no puede tener derechos de autor, gobierna un juez federal de EE. UU.](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
 
- *[Documento de la corte distrital](https://www.documentcloud.org/documents/23919666-thalervperlmutter?responsive=1&title=1)
+ * [Documento de la corte distrital](https://www.documentcloud.org/documents/23919666-thalervperlmutter?responsive=1&title=1)
+
+[Pruebas de creatividad](https://www.oneusefulthing.org/p/automating-creativity) 
+
+[Nvidia aumenta sus ingresos en 6 billones](https://www.cnbc.com/2023/08/23/nvidia-blowout-earnings-report-shows-chipmaker-grabbing-all-ai-profits.html)
+
+
 
 
  
