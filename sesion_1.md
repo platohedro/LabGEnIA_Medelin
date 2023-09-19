@@ -36,7 +36,7 @@ Crear una muestra online donde se puedan visualizar los contenidos realizados pr
 * Stable DIffusion
 * Prompts
 * Moldes
-* Herraientas de reación de imagenes
+* Herraientas de creación de imagenes
 * Deforum
 * Google Colab
 
