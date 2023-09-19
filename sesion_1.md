@@ -43,6 +43,8 @@ Crear una muestra online donde se puedan visualizar los contenidos realizados pr
 
 ## Noticias y Referencias 
 
+[La IA detecta el cáncer de mama 4 años antes de que se desarrolle](https://edition.cnn.com/videos/health/2023/03/07/artificial-intelligence-breast-cancer-detection-mammogram-cnntm-vpx.cnn)   
+
 [Un niño visito a 17 médicos durante 3 años por dolor crónico. ChatGPT encontró el diagnóstico](https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843)
 
 [La IA detecta la enfermedad ocular y el riesgo de Parkinson a partir de imágenes de la retina](https://www.nature.com/articles/d41586-023-02881-2)
@@ -58,6 +60,9 @@ Crear una muestra online donde se puedan visualizar los contenidos realizados pr
 [Meta lanza Seamless](https://seamless.metademolab.com/)
 
  * [Seamless en hugging face](https://huggingface.co/spaces/facebook/seamless_m4t)
+
+
+
 
 
 
