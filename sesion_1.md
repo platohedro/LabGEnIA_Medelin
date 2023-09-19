@@ -55,7 +55,9 @@ Crear una muestra online donde se puedan visualizar los contenidos realizados pr
 
 [Nvidia aumenta sus ingresos en 6 billones](https://www.cnbc.com/2023/08/23/nvidia-blowout-earnings-report-shows-chipmaker-grabbing-all-ai-profits.html)
 
-[Seamless](https://seamless.metademolab.com/)
+[Meta lanza Seamless](https://seamless.metademolab.com/)
+
+ * [Seamless en hugging face](https://huggingface.co/spaces/facebook/seamless_m4t)
 
 
 
