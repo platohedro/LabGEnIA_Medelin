@@ -62,6 +62,9 @@ Crear una muestra online donde se puedan visualizar los contenidos realizados pr
  * [Seamless en hugging face](https://huggingface.co/spaces/facebook/seamless_m4t)
 
 
+[Ingenieros de Berkeley explican cómo los avances en IA podrían ayudar a restablecer la comunicación natural](https://engineering.berkeley.edu/news/2023/08/novel-brain-implant-helps-paralyzed-woman-speak-using-a-digital-avatar/)
+
+
 
 
 
