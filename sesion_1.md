@@ -45,6 +45,15 @@ Crear una muestra online donde se puedan visualizar los contenidos realizados pr
 
 [Un niño visito a 17 médicos durante 3 años por dolor crónico. ChatGPT encontró el diagnóstico](https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843)
 
+[La IA detecta la enfermedad ocular y el riesgo de Parkinson a partir de imágenes de la retina](https://www.nature.com/articles/d41586-023-02881-2)
+
+[El arte generado por IA no puede tener derechos de autor, gobierna un juez federal de EE. UU.](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
+
+ *[Documento de la corte distrital](https://www.documentcloud.org/documents/23919666-thalervperlmutter?responsive=1&title=1)
+
+
+ 
+
 
   
 
