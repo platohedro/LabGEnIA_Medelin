@@ -8,10 +8,14 @@
 ## APIS
 
 
-[Playground AI]()
+[Playground AI](https://playgroundai.com/create)
+
 [Leonardo APP]()
+
 [Dream Studio]()
+
 [Ideograma](https://ideogram.ai/)
+
 [Textify](https://textify.storia.ai/)
 
 
