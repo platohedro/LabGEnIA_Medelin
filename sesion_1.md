@@ -81,6 +81,11 @@ Camilo
 [Ingenieros de Berkeley explican cómo los avances en IA podrían ayudar a restablecer la comunicación natural](https://engineering.berkeley.edu/news/2023/08/novel-brain-implant-helps-paralyzed-woman-speak-using-a-digital-avatar/)
 
 
+[Consumo de Agua de Chat GTP](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)
+
+
+## [Stablediffusion](https://stability.ai/)
+
 
 
 
