@@ -1,1 +1,1 @@
-# LabGEnIA_Medellin
+# LabGEnIA_Medellín
