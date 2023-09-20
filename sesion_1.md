@@ -23,6 +23,22 @@ Aprender a crear animaciones por medio de AI
 Crear una muestra online donde se puedan visualizar los contenidos realizados pr los participantes 
 ~~~
 
+### participantes 
+
+~~~ 
+Laura 
+
+Cristian
+
+Carolina Alba
+
+Sara
+
+Juan pablo
+
+Camilo
+~~~
+
 ## Temario de taller 
 
 ### AI aplicada a imagen 
