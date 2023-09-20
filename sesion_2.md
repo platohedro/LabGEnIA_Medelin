@@ -7,6 +7,7 @@
 
 ## APIS
 
+[Stablity ai en replicate ](https://replicate.com/stability-ai)
 
 [Playground AI](https://playgroundai.com/create)
 
@@ -19,6 +20,8 @@
 [Textify](https://textify.storia.ai/)
 
 [Clipdrop | SD XL ](https://clipdrop.co/stable-diffusion)
+
+[Mage Sapce](https://www.mage.space/)
 
 
 ## Noticias Y referencias
