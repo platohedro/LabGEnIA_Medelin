@@ -9,6 +9,16 @@
  * opensource tools
  * Stable DIffusion
 
+
+## Modelos
+
+* SD 1
+* SD 2
+* SD XL
+* Otrxs
+
+
+
 ## Prompt
 
 [PromptMania](https://promptomania.com/)
@@ -19,12 +29,6 @@ Un prompt negativo es lo contrario al prompt normal, es lo que quieres excluir e
 
 En el ejemplo mostrado en la imagen de arriba, aparece de prompt negativo "EasyNegative, (nsfw)". Este nos va a servir para que no salgan cosas inapropiadas en las imágenes. NSFW son las siglas en inglés de "Not Safe To Work".
 
-## Modelos
-
-* SD 1
-* SD 2
-* SD XL
-* Otrxs
 
 ## Seed o Semilla 
 
@@ -55,7 +59,7 @@ Lentos con más detalles 50 pasos
    * lms
    * pmls
    * dpm2
-   
+
 
 
 ## APIS
