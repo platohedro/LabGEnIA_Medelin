@@ -1,5 +1,14 @@
 ## Sesión 2 
 
+
+~~~
+Sara
+Carolina
+Juan
+Juan David
+Cristian
+~~~
+
 ### Introducción a la Inteligencia Artificial aplicada a imagen 
 
 
