@@ -2,12 +2,25 @@
 
 ### Introducción a la Inteligencia Artificial aplicada a imagen 
 
- * Redes neuronales
- * Machine Learning
- * Computer vision
- * Python
- * opensource tools
- * Stable DIffusion
+
+## Redes neuronales
+
+Una red neuronal es un método de la inteligencia artificial que enseña a las computadoras a procesar datos de una manera que está inspirada en la forma en que lo hace el cerebro humano. Se trata de un tipo de proceso de machine learning llamado aprendizaje profundo, que utiliza los nodos o las neuronas interconectados en una estructura de capas que se parece al cerebro humano. Crea un sistema adaptable que las computadoras utilizan para aprender de sus errores y mejorar continuamente. De esta forma, las redes neuronales artificiales intentan resolver problemas complicados, como la realización de resúmenes de documentos o el reconocimiento de rostros, con mayor precisión.
+
+## Machine Learning
+
+El machine learning es la ciencia de desarrollo de algoritmos y modelos estadísticos que utilizan los sistemas de computación con el fin de llevar a cabo tareas sin instrucciones explícitas, en vez de basarse en patrones e inferencias. Los sistemas de computación utilizan algoritmos de machine learning para procesar grandes cantidades de datos históricos e identificar patrones de datos. Esto les permite generar resultados con mayor precisión a partir de un conjunto de datos de entrada. Por ejemplo, los científicos de datos pueden entrenar una aplicación médica para diagnosticar el cáncer con imágenes de rayos X a partir del almacenamiento de millones de imágenes escaneadas y diagnósticos correspondientes.
+
+## Computer vision /  visión artificial
+
+La visión artificial es una tecnología que utilizan las máquinas para reconocer automáticamente las imágenes y describirlas de manera precisa y eficiente. Hoy en día, los sistemas informáticos tienen acceso a un gran volumen de imágenes y datos de video procedentes o creados por teléfonos inteligentes, cámaras de tráfico, sistemas de seguridad y otros dispositivos. Las aplicaciones de visión artificial utilizan inteligencia artificial y el machine learning (IA/ML) para procesar estos datos con precisión para la identificación de objetos y el reconocimiento facial, así como para la clasificación, la recomendación, el monitoreo y la detección.
+
+
+## Stable DIffusion
+
+Stable Diffusion es un motor de inteligencia artificial diseñado para crear imágenes a partir de texto, pero también sirve para otras cosas que te vamos a explicar un poco después.
+
+Ha sido creado por la empresa Stability AI, y es de código abierto, por lo que cualquier desarrollador puede revisar cómo funciona y crear herramientas a partir de él. Esto da mucha flexibilidad a la comunidad para poder crear distintos clientes y soluciones a partir de él.
 
 
 ## Modelos
