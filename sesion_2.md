@@ -27,3 +27,5 @@
 ## Noticias Y referencias
 
 [Sale Dalle 3](https://openai.com/dall-e-3)
+
+[Open Assistant](https://open-assistant.io/chat)
