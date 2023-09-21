@@ -32,7 +32,7 @@ La semilla (seed) es un valor numérico que se utiliza para inicializar el algor
 
 ## Steps o pasos
 
-Los pasos ("steps") se refiere al número de pasos que el algoritmo de generación de imágenes de catbird.ai utiliza para crear la imagen. En general, cuanto mayor sea el número de pasos, más detallada y precisa será la imagen generada. Sin embargo, también puede aumentar el tiempo necesario para generar la imagen.
+Los pasos ("steps") se refiere al número de pasos que el algoritmo de generación de imágenes utiliza para crear la imagen. En general, cuanto mayor sea el número de pasos, más detallada y precisa será la imagen generada. Sin embargo, también puede aumentar el tiempo necesario para generar la imagen.
 
 ## Sampler
 
