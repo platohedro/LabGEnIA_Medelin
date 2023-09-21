@@ -38,7 +38,7 @@ Los pasos ("steps") se refiere al número de pasos que el algoritmo de generaci�
 
 Esun metdodo o algoritmo por el cual partiendo de un patrón de ruido se llega  a una imagen terminada, cada sampler usa un metodo distinto, este patron de ruido viene dado por la seed o semilla.
 
-El sampler determina 
+### El sampler determina 
 
   * numero de pasos minimos para crear la iamgen
   * nivel de detalle de la imagen final
