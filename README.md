@@ -26,10 +26,11 @@ La sabiduría del no saber y la lA descolonial
 Inteligencia artificial y la imaginación feminista descolonial
 Inteligencia artificial: un manifiesto descolonial
 Hacia un marco feminista para el desarrollo de la IA: de los principios a la práctica 
-Lanier, J. (2021). Al is an ideology, not a technology. Wired.
-https: //www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/ 
+Lanier, J. (2021). Al is an ideology, not a technology. [Wired.](https: //www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/ )
+
 
 Artículos:
-https://vientosur.info/descolonizando-la-inteligencia-artificial-un-enfoque-transfeminista/ 
-https://www.unesco.org/es/articles/nuevo-informe-de-la-unesco-sobre-inteligencia-artificial-e-igualdad-de-genero
+
+[articulo 1](https://vientosur.info/descolonizando-la-inteligencia-artificial-un-enfoque-transfeminista/)
+[articulo 2](https://www.unesco.org/es/articles/nuevo-informe-de-la-unesco-sobre-inteligencia-artificial-e-igualdad-de-genero)
 
