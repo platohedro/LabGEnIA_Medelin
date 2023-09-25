@@ -5,6 +5,8 @@
 
 # Noticias y Refeencias
 
+[Mixo](https://app.mixo.io/)
+
 [invideo](https://ai.invideo.io/)
 
 [Lexica](https://lexica.art/)
