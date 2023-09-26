@@ -12,3 +12,5 @@
 [Lexica](https://lexica.art/)
 
 [Video Inpating](https://shangchenzhou.com/projects/ProPainter/)
+
+[idomoo](https://www.idomoo.ai/)
