@@ -14,3 +14,5 @@
 [Video Inpating](https://shangchenzhou.com/projects/ProPainter/)
 
 [idomoo](https://www.idomoo.ai/)
+
+[kapwing](https://www.kapwing.com/)
