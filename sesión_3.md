@@ -5,6 +5,8 @@
 
 # Noticias y Refeencias
 
+[Informe de AI en latinoamerica](https://web.karisma.org.co/informe-sobre-politicas-de-inteligencia-artificial-y-derechos-de-autor-en-america-latina/)
+
 [Mixo](https://app.mixo.io/)
 
 [invideo](https://ai.invideo.io/)
