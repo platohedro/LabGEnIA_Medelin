@@ -34,3 +34,5 @@ Artículos:
 [articulo 1](https://vientosur.info/descolonizando-la-inteligencia-artificial-un-enfoque-transfeminista/)
 [articulo 2](https://www.unesco.org/es/articles/nuevo-informe-de-la-unesco-sobre-inteligencia-artificial-e-igualdad-de-genero)
 
+
+### [CARPETA DE LA MUESTRA](https://drive.google.com/drive/folders/1zWLzwZLo24YQVoENwso3ldE27dlqjdgW)
