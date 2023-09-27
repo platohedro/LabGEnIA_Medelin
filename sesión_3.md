@@ -27,7 +27,19 @@ translation_x: "0:(0.5), 40:(1.5), 60:(0), 80:(-0.6), 120:(-0.9)"
 ~~~
 
 
+STRENG IMAGEN Y VIDEO 
 
+
+~~~
+
+lOAD SETTING
+
+PARA VIDEO INPUT
+
+SEED BEHAVOR → FIXED 
+
+STRENG   0 ES MAS VIDEO O IMAGEN 1 ES MAS PROMPT
+~~~
 
 # Noticias y Refeencias
 
