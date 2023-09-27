@@ -27,16 +27,53 @@ translation_x: "0:(0.5), 40:(1.5), 60:(0), 80:(-0.6), 120:(-0.9)"
 ~~~
 
 
-STRENG IMAGEN Y VIDEO 
-
+## ANIMATION 
 
 ~~~
+animation_mode: 2D 3D VIDEO INPUT
 
-lOAD SETTING
+max_frames: cantidad de frames del vídeo
+~~~
 
+## Motion Parameters
+
+~~~
+zoom: 0:(1.04)
+translation_x: 0:(10*sin(2*3.14*t/10))
+translation_y: 0:(0)
+translation_z: 0:(10)
+rotation_3d_x: 0:(0)
+rotation_3d_y: 0:(0)
+rotation_3d_z: 0:(0)
+~~~
+
+## PARA VIDEO INPUT 
+
+~~~
+Video Input: RUTA DEL VIDEO EN EL DRIVE
+~~~
+
+
+## PROPMT 
+
+~~~
+# prompts
+prompts = {
+    0: "a beautiful lake by Asher Brown Durand, trending on Artstation",
+    10: "a beautiful portrait of a woman by Artgerm, trending on Artstation",
+}
+~~~
+
+
+
+## LOAD SETTINGS 
+
+~~~
 PARA VIDEO INPUT
 
 SEED BEHAVOR → FIXED 
+
+STRENG IMAGEN Y VIDEO 
 
 STRENG   0 ES MAS VIDEO O IMAGEN 1 ES MAS PROMPT
 ~~~
