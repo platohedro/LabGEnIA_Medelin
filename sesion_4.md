@@ -8,6 +8,14 @@
 
 [Parametros de Animación](https://deforum.github.io/animation.html)
 
+## Tipos de Animación
+
+### 3d 
+
+### 2d 
+
+### videoinput
+
 ## Noticias y Referencias
 
 [Futurpedia](https://www.futurepedia.io/)
