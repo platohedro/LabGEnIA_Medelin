@@ -8,6 +8,10 @@
 
 [Parametros de Animación](https://deforum.github.io/animation.html)
 
+
+
+→ → → Para buscar y descargar  moldes [HugginFace](https://huggingface.co/)
+
 ## Tipos de Animación
 
 ### 3d 
