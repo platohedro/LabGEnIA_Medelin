@@ -1,4 +1,4 @@
-# LabGEnIA_Medellín
+# [LabGEnIA_Medellín](http://genialab.platohedro.org/)
 
 Este laboratorio tiene como eje metodológico la perspectiva transfeminista, entendida como herramienta epistemológica que no se reduce a la incorporación del discurso transgénero al feminismo, ni se propone como una superación de los feminismos. Se trata de una red que considera los estados de tránsito de género, de migración, de mestizaje, de vulnerabilidad, de raza y de clase, para articularlos como herederos de la memoria histórica de los movimientos sociales de insurrección (Valencia, Sayak. 2018).
 
